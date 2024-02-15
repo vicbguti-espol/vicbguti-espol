@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Víctor</h1>
 <h3 align="center">A ML/AI Student</h3>
 
-- 🔭 I’m currently working on **computer vision**
+- 🔭 I’m currently working on **computer vision project**
 
-- 🌱 I’m currently learning **django framework, machine learning concepts**
+- 🌱 I’m currently learning **django framework**
 
 - 🤝 I’m looking for help with **computer science projects**
 
@@ -13,6 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/vicbguti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vicbguti" height="30" width="40" /></a>
+<a href="https://instagram.com/vborborgutierrez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vborborgutierrez" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
