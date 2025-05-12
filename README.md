@@ -1,21 +1,72 @@
 <h1 align="center">Hi 👋, I'm Víctor</h1>
-<h3 align="center">A ML/AI Student</h3>
 
-- 🔭 I’m currently working on **computer vision project**
+# 💼 Personal Repository
 
-- 🌱 I’m currently learning **django framework**
+Welcome to my personal repository! Here you’ll find a collection of my featured projects, the technologies I use, screenshots, and contact information. 🚀
 
-- 🤝 I’m looking for help with **computer science projects**
+---
 
-- 💬 Ask me about **python**
+## 📁 Table of Contents
 
-- 📫 How to reach me **vicbguti@espol.edu.ec**
+1. [About Me](#about-me)  
+2. [Technologies](#technologies)  
+3. [Projects](#projects)  
+4. [Screenshots](#screenshots)  
+5. [Contact](#contact)  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/vicbguti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vicbguti" height="30" width="40" /></a>
-<a href="https://instagram.com/vborborgutierrez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vborborgutierrez" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> </p>
+## 👨‍💻 About Me
+
+Hi! I’m Victor, a Computer Science Student, passionate about building meaningful software and learning new technologies. My interests include algorithms, web development and machine learning.
+
+---
+
+## 🧰 Technologies
+
+Here are some tools and technologies I frequently work with:
+
+- **Languages:** Python, JavaScript, C++, HTML, CSS, Java  
+- **Frameworks/Libraries:** React, Node.js, Flask, Bootstrap, Angular, OpenCV  
+- **Databases:** MySQL, MongoDB, PostgreSQL  
+- **Tools:** Git, GitHub, Docker, VS Code, Postman  
+
+<!--
+---
+
+## 🚀 Projects
+
+| Project | Description | Tech Stack | Status | Link |
+|--------|-------------|------------|--------|------|
+| **Task Manager** | A web app to manage daily tasks efficiently. | React, Node.js, MongoDB | ✅ Completed | [View on GitHub](https://github.com/yourusername/task-manager) |
+| **Weather API** | REST API that returns current weather data. | Python, Flask, OpenWeather API | 🔧 In Progress | [View on GitHub](https://github.com/yourusername/weather-api) |
+| **Personal Portfolio** | Personal website showcasing my work. | HTML, CSS, JavaScript | ✅ Completed | [View Site](https://yourusername.github.io/portfolio) |
+| **Trivia Game** | Interactive question-and-answer game. | JavaScript, Bootstrap | 🧪 Testing | [View on GitHub](https://github.com/yourusername/trivia-game) |
+
+---
+
+## 🖼️ Screenshots
+
+Here are some screenshots of my projects:  
+(Add image files to a folder like `/assets` or `/images` in your repo and link them)
+
+### Task Manager  
+![Task Manager](./assets/task-manager.png)
+
+### Weather API  
+![Weather API](./assets/weather-api.png)
+
+---
+-->
+
+## 📬 Contact
+
+- 📧 Institutional Email: [vicbguti@espol.edu.ec](mailto:vicbguti@espol.edu.ec)  
+- 💼 LinkedIn: [linkedin.com/in/vicbguti](https://linkedin.com/in/vicbguti)  
+- 🌐 Website: [https://vicbguti-espol.github.io](https://vicbguti-espol.github.io)
+
+---
+
+## 📝 Notes
+
+This repository is continuously updated as I learn and develop new projects. Thanks for visiting! 🙌
