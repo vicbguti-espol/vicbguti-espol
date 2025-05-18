@@ -83,6 +83,13 @@ Throughout these projects, I gained practical experience in several programming 
 
 ---
 
+## 📷 QR Code Access
+
+![qrcode_vicbguti-espol github io](https://github.com/user-attachments/assets/ac59bb20-3b7c-4870-8a59-94b371f846b5)
+
+---
+---
+
 ## 📬 Contact
 
 - 📧 Institutional Email: [vicbguti@espol.edu.ec](mailto:vicbguti@espol.edu.ec)  
